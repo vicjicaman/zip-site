@@ -2,7 +2,11 @@
 
 This is a small website to show some photos.
 I am using this small website to test a feature that I am working on to upload a website from a zip file.
+
 Check the live site here: [here](https://www.vicjicama.com/photo)
+
+Check more details in this blog post: [here](https://code.vicjicama.com/post/easy-webpage)
+
 
 # zip site
 
